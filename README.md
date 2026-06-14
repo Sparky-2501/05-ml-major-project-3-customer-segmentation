@@ -1,5 +1,5 @@
 <h1>Customer Segmentation using HDBSCAN and Unsupervised Machine Learning</h1>
-
+<br>
 <div class="section">
     <h2>Problem Statement</h2>
     <p>
@@ -64,7 +64,7 @@
         ↓<br>
         Feature Scaling using StandardScaler<br>
         ↓<br>
-        Elbow Method<br><br>
+        Elbow Method<br>
         ↓<br>
         Silhouette Score Analysis<br>
         ↓<br>
